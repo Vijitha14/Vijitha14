@@ -1,7 +1,26 @@
-- 👋 Hi, I’m @Vijitha14
-- 👀 I’m interested in exploring things
-- 🌱 I’m currently learning DSA with Java
-- 😄 Pronouns: She/Her
+👋 Hi there! I’m a Computer Science student passionate about uncovering insights through data and building smart solutions.
+
+🔍 Current Focus:
+
+Exploring Data Science & Data Analytics
+
+Practicing DSA with Python & Java
+
+Building projects and strengthening core concepts
+
+🛠️ Tools & Tech: Python | Java | C | SQL | JavaScript | Anaconda | Git | VS Code
+
+🎯 Goals:
+
+Secure an internship in Data Analytics or Data Science
+
+Work on real-world data projects
+
+Continuously improve problem-solving and analytical skills
+
+📚 Learning every day, one line of code at a time.
+📫 Let’s connect and collaborate!
+
 
 <!---
 Vijitha14/Vijitha14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
