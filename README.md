@@ -1,4 +1,4 @@
-👋 Hi there! I’m a Computer Science student passionate about uncovering insights through data and building smart solutions.
+👋 Hi there! I’m Glory Vijitha, a Computer Science student passionate about uncovering insights through data and building smart solutions.
 
 🔍 Current Focus:
 
