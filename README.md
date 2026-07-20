@@ -1,28 +1,69 @@
-👋 Hi there! I’m Glory Vijitha, a Computer Science student passionate about uncovering insights through data and building smart solutions.
+# 👋 Hi, I'm Glory Vijitha!
 
-🔍 Current Focus:
+💻 Computer Science Engineering Student passionate about building AI-powered applications, workflow automation systems, and software solutions.
 
-Exploring Data Science & Data Analytics
+## 🚀 Currently Building
 
-Practicing DSA with Python & Java
+- 🤖 AI Applications using LLMs & Generative AI
+- ⚙️ Workflow Automation with n8n & APIs
+- 🐍 Python-based Software Development
+- 🌐 Open Source Contributions (GSSoC 2026)
+- 🚀 Deploying real-world AI projects
 
-Building projects and strengthening core concepts
+## 🛠️ Tech Stack
 
-🛠️ Tools & Tech: Python | Java | C | SQL | JavaScript | Anaconda | Git | VS Code
+**Languages**
+- Python
+- Java
+- SQL
 
-🎯 Goals:
+**AI & Automation**
+- OpenAI API
+- Gemini API
+- Prompt Engineering
+- FastAPI
+- Streamlit
+- n8n
+- REST APIs
 
-Secure an internship in Data Analytics or Data Science
+**Tools**
+- Git
+- GitHub
+- Docker
+- VS Code
+- MySQL
+- Playwright
+- Telegram Bot API
+- Google Sheets API
 
-Work on real-world data projects
+## 📌 Featured Projects
 
-Continuously improve problem-solving and analytical skills
+🚀 CareerPilot AI
+> AI Resume Analyzer & Placement Copilot powered by Gemini API.
 
-📚 Learning every day, one line of code at a time.
-📫 Let’s connect and collaborate!
+😊 Sentio
+> AI-powered mood tracking assistant with NLP and sentiment analysis.
 
+⚡ Event-Driven Task Automation Platform
+> Automated task tracking using n8n, Telegram Bot API & Google Sheets.
 
-<!---
-Vijitha14/Vijitha14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Learning
+
+- AI Application Development
+- Software Engineering
+- LLM Workflows
+- System Design
+- Cloud Deployment
+
+## 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Contribute more to Open Source
+- Deploy impactful AI projects
+- Secure an AI Application Developer / AI Software Engineer role
+
+## 📫 Connect with me
+
+💼 LinkedIn: linkedin.com/in/glory-vijitha-10aa4b308
+
+📧 Email: vijithaglory4@gmail.com
